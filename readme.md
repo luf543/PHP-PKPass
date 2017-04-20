@@ -6,8 +6,9 @@ This class provides the functionality to create an Pass for Passbook in Apple's 
 
 ## Requirements
 * PHP 5.4
-* PHP [ZIP Support](http://php.net/manual/en/book.zip.php) (May be installed by default)
+* PHP [ZIP Support](http://php.net/manual/en/book.zip.php) (May be installed by default)(可默认安装)
 * Access to filesystem (Script must be able to create temporary folders)
+访问文件系统（脚本必须能够创建临时文件夹）
 
 ## Installation
 #### Composer
